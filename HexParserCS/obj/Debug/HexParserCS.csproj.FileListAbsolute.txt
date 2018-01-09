@@ -1,0 +1,5 @@
+C:\Users\luke\OneDrive\Visual Studio 2017\Projects\HexParser\HexParserCS\obj\Debug\HexParserCS.csprojResolveAssemblyReference.cache
+C:\Users\luke\OneDrive\Visual Studio 2017\Projects\HexParser\HexParserCS\bin\Debug\HexParserCS.exe
+C:\Users\luke\OneDrive\Visual Studio 2017\Projects\HexParser\HexParserCS\bin\Debug\HexParserCS.pdb
+C:\Users\luke\OneDrive\Visual Studio 2017\Projects\HexParser\HexParserCS\obj\Debug\HexParserCS.exe
+C:\Users\luke\OneDrive\Visual Studio 2017\Projects\HexParser\HexParserCS\obj\Debug\HexParserCS.pdb
